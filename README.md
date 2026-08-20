@@ -159,17 +159,3 @@ The next implementation stage should replace the current preview state with pers
 
 A later refinement can add custom recorded pencil, roller, and paper sounds, a mute preference persisted per device, a proper share-link delivery flow, and a full collection view for letters that have been sealed or opened.
 
-## Contributing
-
-Create a feature branch, keep changes focused, run `pnpm check` and `pnpm test`, and describe any schema or environment-variable changes in the pull request. Never commit `.env` files, production credentials, private letter content, or generated user data.
-
-## License
-
-Add the license that matches your intended distribution before publishing the repository. If this is a private project, keep the repository private and document ownership separately.
-
-## References
-
-[1]: https://vite.dev/guide/ "Vite Guide"
-[2]: https://react.dev/learn "React Documentation"
-[3]: https://pnpm.io/cli/install "pnpm install documentation"
-[4]: https://vitest.dev/guide/ "Vitest Guide"
